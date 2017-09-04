@@ -1,7 +1,7 @@
 W00-170829-16-LR-About: Introduction to Operating System, From: Lecturer
 W00-170829-16-LR-About: Introduction to Operating System, From: Lecturer
 W00-170829-18-PS-About: Github Learning, Lab 00
-W00-170831-16-LR-About: Introduction to Operating Systen, From: Lecturer
+W00-170831-16-LR-About: Introduction to Operating System, From: Lecturer
 W00-170831-16-LR-About: Introduction to Operating System, From: Lecturer
 W01-170904-13-PS-About: Github Learning and Scripting, Lab01
 W01-170904-13-PS-About: Github Learning and Scripting, Lab01
