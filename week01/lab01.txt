@@ -20,3 +20,4 @@ drwxr-xr-x  2 ryan.naufal StafCS 4096 Sep  4 13:57 week09
 drwxr-xr-x  2 ryan.naufal StafCS 4096 Sep  4 13:58 week10
 drwxr-xr-x  2 ryan.naufal StafCS 4096 Sep  4 13:59 xtra
 /home/fasilkom/mahasiswa/r/ryan.naufal/os172/week01
+Today is 04 Sep 2017 at 14:32:46
