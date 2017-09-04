@@ -1,1 +1,6 @@
 #ostutorial
+
+Kenapa Saya perlu belajar Operating System?
+Karena dasar dari sebuah komputer adalah Operating System, 
+untuk mempelajari mengenai komputer, 
+Saya rasa saya perlu belajar mengenai Operating System.
