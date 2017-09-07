@@ -8,3 +8,5 @@ W01-170904-13-PS-About: Github Learning and Scripting, Lab01
 W01-170904-13-PS-About: Github Learning and Scripting, Lab01
 W01-170905-16-LR-About: Scripting, From: Lecturer
 W01-170905-16-LR-About: Scripting, From: Lecturer
+W01-170907-16-LR-About: Scripting, From: Lecturer
+W01-170907-16-LR-About: Scripting, From: Lecturer
