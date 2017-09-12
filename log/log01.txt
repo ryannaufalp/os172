@@ -15,8 +15,3 @@ W01-170905-16-LR-About: Scripting, From: Lecturer
 W01-170907-16-LR-About: Scripting, From: Lecturer
 W01-170907-16-LR-About: Scripting, From: Lecturer
 W01-170907-16-LR-About: Scripting, From: Lecturer
-W02-170911-14-PS-About: Github Learning and Introduction to C Languange, Lab02
-W02-170911-14-PS-About: Github Learning and Introduction to C Languange, Lab02
-W02-170911-14-PS-About: Github Learning and Introduction to C Languange, Lab02
-W02-170912-12-PS-About: Github Learning and Introduction to C Languange, Lab02
-W02-170912-12-PS-About: Github Learning and Introduction to C Languange, Lab02
