@@ -3,3 +3,6 @@ W04-170926-14-PS-About: IO and Addressing, Lab04
 W04-170926-14-PS-About: IO and Addressing, Lab04
 W04-170926-14-PS-About: IO and Addressing, Lab04
 W04-170926-14-PS-About: IO and Addressing, Lab04
+W04-170926-16-LR-About: IO and Addressing, From: Lecturer
+W04-170926-16-LR-About: IO and Addressing, From: Lecturer
+W04-170926-16-LR-About: IO and Addressing, From: Lecturer
