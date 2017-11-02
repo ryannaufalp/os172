@@ -7,3 +7,15 @@ W05-171005-16-LR-About: Memory, From: Lecturer
 W05-171007-09-PS-About: Memory, Lab05
 W05-171007-09-PS-About: Memory, Lab05
 W05-171007-09-PS-About: Memory, Lab05
+W05-171008-15-PS-About: Memory, Lab05
+W05-171008-15-PS-About: Memory, Lab05
+W05-171008-15-PS-About: Memory, Lab05
+W05-171008-15-PS-About: Memory, Lab05
+W05-171008-15-PS-About: Memory, Lab05
+W05-171008-15-PS-About: Memory, Lab05
+W05-171009-16-LR-About: Memory, From: Lecturer
+W05-171009-16-LR-About: Memory, From: Lecturer
+W05-171009-16-LR-About: Memory, From: Lecturer
+W05-171011-16-PS-About: Quiz, From: Lecturer
+W05-171011-16-PS-About: Quiz, From: Lecturer
+W05-171011-16-PS-About: Quiz, From: Lecturer
