@@ -4,8 +4,8 @@ W06-171107-16-LR-About: Syncronization, From: Lecturer
 W06-171109-16-LR-About: Syncronization, From: Lecturer
 W06-171109-16-LR-About: Syncronization, From: Lecturer
 W06-171109-16-LR-About: Syncronization, From: Lecturer
-W06-171111-09-PS-About: Syncronization, Lab 06
-W06-171111-09-PS-About: Syncronization, Lab 06
-W06-171111-09-PS-About: Syncronization, Lab 06
-W06-171111-09-PS-About: Syncronization, Lab 06
-W06-171111-09-PS-About: Syncronization, Lab 06
+W06-171111-09-PS-About: Syncronization, Lab 07
+W06-171111-09-PS-About: Syncronization, Lab 07
+W06-171111-09-PS-About: Syncronization, Lab 07
+W06-171111-09-PS-About: Syncronization, Lab 07
+W06-171111-09-PS-About: Syncronization, Lab 07
