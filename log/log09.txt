@@ -1,2 +1,2 @@
-W09-171128-13-LR-About: lab09
-W09-171128-13-LR-About: lab10
+W09-171128-13-LR-About: Memory, Lab09
+W09-171128-13-LR-About: Scheduling, Lab10
