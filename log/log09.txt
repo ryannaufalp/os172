@@ -1,2 +1,8 @@
-W09-171128-13-LR-About: Memory, Lab09
-W09-171128-13-LR-About: Scheduling, Lab10
+W09-171128-13-PS-About: Memory, Lab09
+W09-171128-13-PS-About: Scheduling, Lab10
+W09-171128-16-LR-About: Excercise, From: Lecturer
+W09-171128-16-LR-About: Excercise, From: Lecturer
+W09-171128-16-LR-About: Excercise, From: Lecturer
+W09-171130-16-LR-About: Excercise, From: Lecturer
+W09-171130-16-LR-About: Excercise, From: Lecturer
+W09-171130-16-LR-About: Excercise, From: Lecturer
